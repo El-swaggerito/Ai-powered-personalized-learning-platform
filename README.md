@@ -1,30 +1,36 @@
-# Learning Platform
+# 🎓 Personalized Learning Platform
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+![Learning Platform Banner](https://placeholder.svg?height=300&width=800)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/muhammad-zayyad-mukhtars-projects/v0-learning-platform-zwaltgs4x5h)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/zwALTGS4x5h)
+A modern AI-powered learning platform that provides personalized course and activity recommendations based on user profiles and interests. Built with Next.js and powered by Gemini AI.
 
-## Overview
+## ✨ Features
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+- **AI-Powered Recommendations**: Get personalized academic and extracurricular recommendations based on your profile
+- **Interactive UI**: Smooth animations and transitions using GSAP and Framer Motion
+- **Responsive Design**: Works seamlessly across desktop and mobile devices
+- **Search & Filtering**: Easily find relevant recommendations with built-in search and filtering
+- **Modern UI**: Clean, professional interface with gradient accents and thoughtful design
 
-## Deployment
+## 🛠️ Technologies
 
-Your project is live at:
+- **Frontend**: Next.js 14, React, TypeScript
+- **UI Components**: shadcn/ui
+- **Styling**: Tailwind CSS
+- **Animations**: GSAP, Framer Motion
+- **AI Integration**: Google Gemini AI
+- **State Management**: React Hooks
 
-**[https://vercel.com/muhammad-zayyad-mukhtars-projects/v0-learning-platform-zwaltgs4x5h](https://vercel.com/muhammad-zayyad-mukhtars-projects/v0-learning-platform-zwaltgs4x5h)**
+## 📋 Prerequisites
 
-## Build your app
+- Node.js 18.0 or later
+- Google Gemini AI API key
 
-Continue building your app on:
+## 🚀 Getting Started
 
-**[https://v0.dev/chat/projects/zwALTGS4x5h](https://v0.dev/chat/projects/zwALTGS4x5h)**
+### Installation
 
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/personalized-learning-platform.git
+   cd personalized-learning-platform
