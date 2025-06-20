@@ -31,6 +31,6 @@ A modern AI-powered learning platform that provides personalized course and acti
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   \`\`\`bash
    git clone https://github.com/yourusername/personalized-learning-platform.git
    cd personalized-learning-platform
